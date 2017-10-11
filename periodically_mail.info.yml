@@ -1,0 +1,7 @@
+type: module
+name: Periodically Mail
+description: 'Send mail after some period'
+version: '8.x-1.0'
+core: '8.x'
+
+configure: periodically_mail.admin_settings
